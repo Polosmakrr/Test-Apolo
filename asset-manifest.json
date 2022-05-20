@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/test-apolo/static/css/main.31d6cfe0.css",
+    "main.js": "/test-apolo/static/js/main.689ec274.js",
+    "index.html": "/test-apolo/index.html",
+    "main.689ec274.js.map": "/test-apolo/static/js/main.689ec274.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.689ec274.js"
+  ]
+}
